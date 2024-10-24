@@ -1,0 +1,28 @@
+D:\Ulbra\Laboratorio de Programação\AP2-LP\obj\Debug\net8.0\AP2-LP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ulbra\Laboratorio de Programação\AP2-LP\obj\Debug\net8.0\AP2-LP.AssemblyInfoInputs.cache
+D:\Ulbra\Laboratorio de Programação\AP2-LP\obj\Debug\net8.0\AP2-LP.AssemblyInfo.cs
+D:\Ulbra\Laboratorio de Programação\AP2-LP\obj\Debug\net8.0\AP2-LP.csproj.CoreCompileInputs.cache
+D:\Ulbra\Laboratorio de Programação\AP2-LP\bin\Debug\net8.0\AP2-LP.exe
+D:\Ulbra\Laboratorio de Programação\AP2-LP\bin\Debug\net8.0\AP2-LP.deps.json
+D:\Ulbra\Laboratorio de Programação\AP2-LP\bin\Debug\net8.0\AP2-LP.runtimeconfig.json
+D:\Ulbra\Laboratorio de Programação\AP2-LP\bin\Debug\net8.0\AP2-LP.dll
+D:\Ulbra\Laboratorio de Programação\AP2-LP\bin\Debug\net8.0\AP2-LP.pdb
+D:\Ulbra\Laboratorio de Programação\AP2-LP\obj\Debug\net8.0\AP2-LP.dll
+D:\Ulbra\Laboratorio de Programação\AP2-LP\obj\Debug\net8.0\refint\AP2-LP.dll
+D:\Ulbra\Laboratorio de Programação\AP2-LP\obj\Debug\net8.0\AP2-LP.pdb
+D:\Ulbra\Laboratorio de Programação\AP2-LP\obj\Debug\net8.0\AP2-LP.genruntimeconfig.cache
+D:\Ulbra\Laboratorio de Programação\AP2-LP\obj\Debug\net8.0\ref\AP2-LP.dll
+D:\Ulbra\Laboratorio de Programação\AP2-LP - Final\bin\Debug\net8.0\AP2-LP.exe
+D:\Ulbra\Laboratorio de Programação\AP2-LP - Final\bin\Debug\net8.0\AP2-LP.deps.json
+D:\Ulbra\Laboratorio de Programação\AP2-LP - Final\bin\Debug\net8.0\AP2-LP.runtimeconfig.json
+D:\Ulbra\Laboratorio de Programação\AP2-LP - Final\bin\Debug\net8.0\AP2-LP.dll
+D:\Ulbra\Laboratorio de Programação\AP2-LP - Final\bin\Debug\net8.0\AP2-LP.pdb
+D:\Ulbra\Laboratorio de Programação\AP2-LP - Final\obj\Debug\net8.0\AP2-LP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ulbra\Laboratorio de Programação\AP2-LP - Final\obj\Debug\net8.0\AP2-LP.AssemblyInfoInputs.cache
+D:\Ulbra\Laboratorio de Programação\AP2-LP - Final\obj\Debug\net8.0\AP2-LP.AssemblyInfo.cs
+D:\Ulbra\Laboratorio de Programação\AP2-LP - Final\obj\Debug\net8.0\AP2-LP.csproj.CoreCompileInputs.cache
+D:\Ulbra\Laboratorio de Programação\AP2-LP - Final\obj\Debug\net8.0\AP2-LP.dll
+D:\Ulbra\Laboratorio de Programação\AP2-LP - Final\obj\Debug\net8.0\refint\AP2-LP.dll
+D:\Ulbra\Laboratorio de Programação\AP2-LP - Final\obj\Debug\net8.0\AP2-LP.pdb
+D:\Ulbra\Laboratorio de Programação\AP2-LP - Final\obj\Debug\net8.0\AP2-LP.genruntimeconfig.cache
+D:\Ulbra\Laboratorio de Programação\AP2-LP - Final\obj\Debug\net8.0\ref\AP2-LP.dll
